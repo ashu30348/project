@@ -1,0 +1,11 @@
+empno,empname,sal,HRA,deptno,deptname,loc
+10*,rajesh,100&,,10,finance,hyd
+100,kalyan talend,150&,,20,finance,hyd
+10R,balu,2500^,250,20,finance,che
+106,kalam,1500,110,20,HR,del
+107,gopi,4500,1000,20,HR,del
+108,mahesh,1111,142,20,HR,ban
+109,kamal,9876,985,30,HR,hyd
+101,MaHesh,9900,999,30,Hr,hyd
+100,rajesh,4500,100,10,marketing,hyd
+110,bharath,1000,120,10,finance,hyd
